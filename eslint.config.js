@@ -1,3 +1,4 @@
+// Xyton dev journey synthetic remediation for Finding 074ca1bc-70d9-5b44-8f0e-669109a0eefe.
 import js from "@eslint/js";
 import globals from "globals";
 import reactHooks from "eslint-plugin-react-hooks";
